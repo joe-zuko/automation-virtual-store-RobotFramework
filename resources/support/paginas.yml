@@ -1,0 +1,15 @@
+quem_somos:
+  titulo: "Mercador Louco"
+  descricao: "Vendemos de tudo, até sua alma. Fazemos qualquer negócio legal ou ilegal, somos piores que a máfia!"
+  capa: "mercador.jpeg"
+
+nossa_historia:
+  titulo: "Nossa História"
+  descricao: "Surgimos do nada e viemos do nada. nós somos nada"
+  capa: "quemsomos.jpg"
+
+contato:
+  titulo: "Fale com a Gente!"
+  descricao: "Use o batsinal que falamos com você! Se for reclamar fale com a minha mão!"
+  capa: "contato.jpeg"
+

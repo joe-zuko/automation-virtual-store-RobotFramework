@@ -1,0 +1,32 @@
+one piece:
+  titulo: "Camisa Luffy"
+  descricao: "Seja o rei dos piratas usando essa nossa incrível camisa! Faça seus amigos morrerem de inveja de você!"
+  preco: "85,90"
+  preco_promocao: "65,50"
+  referencia: "259897"
+  descricao_rapida: "Camisa Luffy One Piece de tecido importado do Japão"
+  categoria: ["Anime", "One Piece"]
+  etiqueta: ["luffy", "onepiece", "oda"]
+  capa: "onepiece.png"
+
+transformers:
+  titulo: "Lider Optimus"
+  descricao: "Tenha o lider dos Autobots em suas mãos, não tema mais os Decepticons!"
+  preco: "1508455,25"
+  preco_promocao: "1000,00"
+  referencia: "259dd97"
+  descricao_rapida: "Optimus Prime com canhão de plasma"
+  categoria: ["Robos", "autobots"]
+  etiqueta: ["g1", "transformers", "80's"]
+  capa: "prime.jpg"
+
+senhor_dos_aneis:
+  titulo: "Um Anel"
+  descricao: "Domine toda a terra com esse anel, confie em seu potencial! Fique invísivel"
+  preco: "5,25"
+  preco_promocao: "1,38"
+  referencia: "2544dd97"
+  descricao_rapida: "O Um Anel do Poder"
+  categoria: ["Magia", "mordor"]
+  etiqueta: ["magia", "hobbit", "gandalf", "daqui voce nao passa", "elfos"]
+  capa: "anel.jpeg"
