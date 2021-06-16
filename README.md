@@ -1,11 +1,9 @@
 # Introdução.
 
-Bem vindo ao projeto de automação do site da Amazon.
+Bem vindo ao projeto de automação do site da loja virtual Mercador.
 
 Ele foi todo criado em RobotFramework junto com uma lib escrita em Python
 
 :)
 
-# amazon
-# automation-AMAZON-Site-RobotFramework
 # automation-virtual-store-RobotFramework
